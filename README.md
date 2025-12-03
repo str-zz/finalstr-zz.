@@ -1,5 +1,5 @@
 ###### Division
-<img width="898" height="1534" alt="image" src="https://github.com/user-attachments/assets/6ab7076f-914c-42eb-a850-9355cf2367cc" />
+<img width="894" height="914" alt="image" src="https://github.com/user-attachments/assets/41e0eec5-471a-4c6f-ac75-dbe636d2f1ed" />
 
 
 ## **What is this?**
