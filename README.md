@@ -1,6 +1,7 @@
 ### DIVISION APPLICATION
 
-<img width="893" height="959" alt="image" src="https://github.com/user-attachments/assets/c5869bb6-935b-4cb1-ad95-8f4086e87354" />
+<img width="906" height="962" alt="image" src="https://github.com/user-attachments/assets/de9cad13-24d0-417e-8a7a-d51dabe2aaae" />
+
 
 
 ## **What is this?**
