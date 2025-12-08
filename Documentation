@@ -57,6 +57,11 @@ Future work & other problems- Emily
 
 
 Solution Overview: 
+Our advanced dosage estimator we developed can address the critical problems of medication dosing errors by moving away from the “one size fits all” approach. As stated previously, the model we created takes into account a patient's biomarkers including weight, age, height, and other details to generate personalized medication dosage amounts.  
+→Key Features:
+Personalized Calculations: our model computes the Total Daily Dosage based on the patient’s individual parameters rather than just population averages
+Body Surface Area: accounts for the differences in drug distributions based on the size of the patient
+Age adjustable: the dosage can be adjusted based on the population age because different populations take in medication differently and produce different effects
 
 
 Technical Details
